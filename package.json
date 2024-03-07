@@ -3,7 +3,7 @@
   "displayName": "Amber Neo",
   "description": "A dark yellow neo kind of theme",
   "repository": "https://github.com/kerzeld/orange-torch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
