@@ -1,0 +1,25 @@
+{
+  "name": "amber-neo",
+  "displayName": "Amber Neo",
+  "description": "A dark yellow neo kind of theme",
+  "repository": "https://github.com/kerzeld/orange-torch",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Amber Neo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/amber-neo-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}

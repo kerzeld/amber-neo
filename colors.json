@@ -1,0 +1,19 @@
+{
+    "brown": "#ffba79",
+    "green": "#baff55",
+    "pink": "#e488ff",
+    "blue": "#63bdff",
+    "red": "ff6152",
+
+    "amain": "#ffc338",
+
+    "dark6": "#0f0f0f",
+    "dark8": "#141414",
+
+    "dark10": "#1a1a1a",
+    "dark12": "#1f1f1f",
+    "dark14": "#242424",
+    "dark20": "#333333",
+    "dark30,border": "4d4d4d",
+    "dark50": "#808080"
+}
